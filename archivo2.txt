@@ -3,3 +3,6 @@ modificamos archivo desde repo local
 modificamos desde rama ordenacion
 
 Modificamos desde rama newIssue
+
+Modificamos desde github
+
